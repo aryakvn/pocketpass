@@ -1,5 +1,9 @@
 # PocketPass
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/aryakvn/pocketpass/refs/heads/main/frontend/src/assets/logo.png" />
+</p>
+
 An open-source, self-hosted password manager using PocketBase as a backend with password sharing. Work-in-progress.
 
 > NOTE: This project is under active development. Use at your own risk. The code and deployment process have not been security-audited — do not store highly sensitive data in production until you have reviewed and hardened the deployment.
